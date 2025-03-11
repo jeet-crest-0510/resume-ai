@@ -1,0 +1,58 @@
+Personal Information:
+Name: SpongeBob SquarePants
+Address: 124 Conch Street, Bikini Bottom
+Phone: 555-555-5555
+Email: spongebob@krustykrab.com
+
+Objective:
+Enthusiastic and hardworking sea sponge seeking a challenging and rewarding position. Eager to apply my skills and positive attitude to contribute to a dynamic work environment.
+
+Education:
+- Jellyfishing School
+  Graduated with Honors
+
+Certifications:
+- AWS Cloud Practitioner Foundational
+- AWS Developer Associate
+- AWS Machine Learning Speciality
+
+Work Experience:
+1. Krusty Krab - Bikini Bottom, Pacific Ocean
+Job Title: Fry Cook
+Dates: 1999 - Present
+
+Key responsibilities:
+- Mastering the art of Krabby Patty flipping.
+- Ensuring a clean and organized kitchen.
+- Providing excellent customer service with a smile.
+
+2. Jellyfish Fields - Bikini Bottom, Pacific Ocean
+Job Title: Jellyfishing Enthusiast
+Dates: Summers of 1999 - Present
+
+Responsibilities:
+- Expert in jellyfishing techniques.
+- Successfully captured and released jellyfish.
+- Shared jellyfishing knowledge with fellow enthusiasts.
+
+Skills:
+- Cooking: Proficient in preparing Krabby Patties and other Bikini Bottom delicacies.
+- Optimism: Known for my positive attitude and ability to find joy in any situation.
+- Teamwork: Collaborative team player, skilled at working with diverse personalities.
+- Adaptability: Thrives in fast-paced and unpredictable environments.
+- Communication: Excellent communication skills, both with colleagues and customers.
+
+Certifications:
+- Certified Krabby Patty Expert - Krusty Krab Training Program
+- Jellyfishing License - Jellyfishing School
+
+Hobbies:
+- Jellyfishing
+- Karate
+- Playing the ukulele
+
+References:
+- Mr. Eugene Krabs - Owner, Krusty Krab
+Contact: 555-1234, krabs@krustykrab.com
+- Squidward Tentacles - Co-worker, Krusty Krab
+Contact: 555-5678, squidward@krustykrab.com
